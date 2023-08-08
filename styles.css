@@ -1,0 +1,22 @@
+ul {
+  list-style: none;
+  display: flex;
+  margin: 20px;
+}
+li {
+  margin: auto;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+  margin: 50px;
+  font-size: x-large;
+}
+.hidden {
+  display: none;
+}
+img {
+  height: 200px;
+  width: 200px;
+  float: left;
+}
